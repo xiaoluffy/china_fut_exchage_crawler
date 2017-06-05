@@ -2,4 +2,4 @@
 
 Get market data from the China futures exchange website.
 
-Merged into (tushare)[https://github.com/waditu/tushare]
+Merged into [tushare](https://github.com/waditu/tushare)
